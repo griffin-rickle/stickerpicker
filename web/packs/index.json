@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "gaff-stickers.json"
+  ],
+  "homeserver_url": "https://matrix.grifflab.media"
+}
